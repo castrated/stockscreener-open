@@ -10,7 +10,7 @@ BeautifulSoup, pandas, numpy, and Qt.
 ## supported (and tested) platforms
 * LiGNUx
 
-⋅⋅* Gentoo
+..* Gentoo
 
 ⋅⋅* Arch
 
