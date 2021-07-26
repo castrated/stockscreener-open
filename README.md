@@ -6,22 +6,3 @@ you ever wanted to know insider trade details, stock patterns, and predict trend
 
 ## dependencies
 BeautifulSoup, pandas, numpy, and Qt.
-
-## supported (and tested) platforms
-* LiGNUx
-
-..* Gentoo
-
-⋅⋅* Arch
-
-⋅⋅* Artix
-
-⋅⋅* Debian
-
-
-* BSD/UNIX
-
-⋅⋅* FreeBSD
-
-
-* Windows 10
